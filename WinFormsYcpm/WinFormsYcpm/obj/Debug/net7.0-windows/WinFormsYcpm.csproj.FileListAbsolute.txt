@@ -1,0 +1,53 @@
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.exe
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.deps.json
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.runtimeconfig.json
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.dll
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.pdb
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form1.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Properties.Resources.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.csproj.GenerateResource.cache
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.AssemblyInfoInputs.cache
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.AssemblyInfo.cs
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.dll
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\refint\WinFormsYcpm.dll
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.pdb
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.genruntimeconfig.cache
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\ref\WinFormsYcpm.dll
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.f2.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form3.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form4.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form5.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form6.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form10.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form7.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form8.resources
+C:\Users\Duc Anh\Desktop\YcPm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form9.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.exe
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.deps.json
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.runtimeconfig.json
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.dll
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\bin\Debug\net7.0-windows\WinFormsYcpm.pdb
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form1.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form10.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.f2.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form3.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form4.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form5.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form6.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form7.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form8.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Form9.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.Properties.Resources.resources
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.csproj.GenerateResource.cache
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.GeneratedMSBuildEditorConfig.editorconfig
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.AssemblyInfoInputs.cache
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.AssemblyInfo.cs
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.csproj.CoreCompileInputs.cache
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.dll
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\refint\WinFormsYcpm.dll
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.pdb
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\WinFormsYcpm.genruntimeconfig.cache
+F:\đặc tả phần mềm\WinFormsYcpm\WinFormsYcpm\obj\Debug\net7.0-windows\ref\WinFormsYcpm.dll
